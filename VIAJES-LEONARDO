@@ -1,4 +1,3 @@
-git clone https://github.com/ViajesLeonardo/viajesleonardo.git
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -37,38 +36,46 @@ git clone https://github.com/ViajesLeonardo/viajesleonardo.git
         h2 {
             margin: 0 0 10px;
         }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
-    <div class="section" style="background-image: url('tu-imagen.jpg');">
+    <div class="section" style="background-image: url('https://i.ibb.co/XSpLDCV/Imagen-de-Whats-App-2024-06-11-a-las-16-29-09-9cfa6e12.jpg');">
         <div class="content">
             <h1>Bienvenidos a Viajes Leonardo</h1>
             <p>Descubre el mundo con nosotros y vive experiencias inolvidables.</p>
         </div>
     </div>
     
-    <div class="section" style="background-image: url('IMAGEN1.JPG');">
+    <div class="section" style="background-image: url('https://i.ibb.co/P9RfmSz/Imagen-de-Whats-App-2024-06-11-a-las-16-29-09-01232991.jpg');">
         <div class="content">
             <h2>Paquetes de Cancún</h2>
+            <a href="https://ibb.co/D8NSVqg" target="_blank">Ver más</a>
         </div>
     </div>
     
-    <div class="section" style="background-image: url('IMAGEN2.JPG');">
+    <div class="section" style="background-image: url('https://i.ibb.co/P9RfmSz/Imagen-de-Whats-App-2024-06-11-a-las-16-29-09-01232991.jpg');">
         <div class="content">
             <h2>Paquetes en Los Cabos</h2>
+            <a href="https://ibb.co/D8NSVqg" target="_blank">Ver más</a>
         </div>
     </div>
     
-    <div class="section" style="background-image: url('IMAGEN3.JPG');">
+    <div class="section" style="background-image: url('https://i.ibb.co/P9RfmSz/Imagen-de-Whats-App-2024-06-11-a-las-16-29-09-01232991.jpg');">
         <div class="content">
             <h2>Paquetes de Nayarit</h2>
+            <a href="https://ibb.co/D8NSVqg" target="_blank">Ver más</a>
         </div>
     </div>
     
     <!-- Espacio para agregar más secciones con imágenes -->
-    <div class="section" style="background-image: url('NUEVA_IMAGEN.JPG');">
+    <div class="section" style="background-image: url('https://i.ibb.co/P9RfmSz/Imagen-de-Whats-App-2024-06-11-a-las-16-29-09-01232991.jpg');">
         <div class="content">
             <h2>Nuevo Paquete</h2>
+            <a href="https://ibb.co/D8NSVqg" target="_blank">Ver más</a>
         </div>
     </div>
 </body>
